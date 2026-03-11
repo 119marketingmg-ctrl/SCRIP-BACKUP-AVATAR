@@ -1,0 +1,1 @@
+find /home/u762583286/domains/journal.pgapublishing.com/public_html/ -type f -name "*.php" -mtime -30 ! -name ".htaccess" -ls
